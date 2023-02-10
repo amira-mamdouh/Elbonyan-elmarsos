@@ -760,6 +760,11 @@ footer {
   color: #3a9edf;
 }
 
+.under-hr {
+  align-items: center;
+  margin-top: 40px;
+}
+
 .information-button {
   margin-top: 40px;
   display: flex;
