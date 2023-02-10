@@ -601,7 +601,7 @@ h3 {
   padding: 50px 60px;
 }
 .review-container {
-  background-image: url(Project-images/review-background.jpg);
+  background-image: url(../Project-images/review-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
